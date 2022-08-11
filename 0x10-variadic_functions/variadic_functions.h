@@ -3,6 +3,10 @@
 
 /*
  * File: variadic_functions.h
+<<<<<<< HEAD
+=======
+ * Auth
+>>>>>>> 1882e7babd9b95e1b465d4f1c3deda5bdde596ce
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0F-variadic_functions directory.
  */
